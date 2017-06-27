@@ -1,0 +1,41 @@
+.left-carousel-figure>ul>li:nth-child(1){
+    background:url(../images/timg1.jpg) no-repeat center center;
+    width:310px;
+    height:400px;
+    background-size: cover;
+}
+.left-carousel-figure>ul>li:nth-child(2){
+    background:url(../images/timg2.jpg) no-repeat -15rem 0rem ;
+    width:310px;
+    height:400px;
+    background-size: cover;
+}
+.left-carousel-figure>ul>li:nth-child(3){
+    background:url(../images/timg3.jpg) no-repeat 0rem center ;
+    width:310px;
+    height:400px;
+    background-size: cover;
+}
+.left-carousel-figure>ul>li:nth-child(4){
+    background:url(../images/timg4.jpg) no-repeat -4rem 0rem ;
+    width:310px;
+    height:400px;
+    background-size: cover;
+    
+}
+ .show-div{
+    background:url(../images/婚庆201.png) no-repeat;
+    width:100%;
+    height:55px;
+}
+ .show-div1{
+    background:url(../images/婚庆200.png) no-repeat;
+    width:100%;
+    height:55px;
+}
+.brother-coin{
+    background:url(../images/婚庆_35.png) no-repeat;
+    width:100%;
+    height:36px;
+    margin:0 0 10px 0;
+}

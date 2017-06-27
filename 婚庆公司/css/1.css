@@ -1,0 +1,244 @@
+.mn a,.information-middle a,.in-rt-nav-child a{
+    font-size: 1.2rem;
+    color:#555;
+    line-height: 24px
+}
+.mn a:hover{
+    color:orange;
+    opacity:0.8;
+}
+.mn p{
+    color:#557;
+    line-height: 24px;
+    font-size:12px;
+}
+.mn-left{
+    width:247px;
+    float:left;
+}
+.mnleft-top-div{
+    background:#ebebeb;
+}
+.mnleft-mid{
+    margin: 10px 0;
+}
+.mnleft-mid>div{
+    background:#ebebeb;
+}
+/*.mnleft-mid>div>div{
+   border-radius: 50%;width:104px;height:40px;line-height:40px;font-size:16px;background:#f62759;color:white;
+}*/
+.mnleft-mid ul{
+    padding:10px 0;
+}
+.mnleft-mid ul li{
+    background:#f7f7f7;
+}
+.mnleft-mid ul li:nth-child(2){
+    background:white;
+
+}
+.coin-part{
+    border:1px dotted #e2e2e2;
+}
+.coin-part-top li{
+    width:54px;
+    text-align:center;
+    float:left;
+    color:red;
+    margin:6px 13px;
+}
+.mn-mid{
+    width: 440px;
+    float:left;
+    margin:0 10px;
+}
+.mn-mid-cutoff{
+    font-size:14px;
+    color:#447;
+    background:#f7f7f7;
+    line-height: 30px;
+    border-radius:10px;
+    padding-left:12px;
+    font-weight: bold;
+    color:#335;
+}
+.mn-mid-cutoff img{
+    float:right;
+    margin:8px 4px 0 0;
+}
+/*----------------------------------------------*/
+.mn-mid-photo li{
+    width:100px;
+    text-align:center;
+    float:left;
+    color:red;
+    margin:9px 4px;
+}
+.last-segment p,.brother a,.mn-bom-cutoff span a,.mn-mid-photo a{
+    color:#557;
+}
+/*------------------------------------------------------------*/
+
+.mn-bom{
+        width:236px;
+}
+.mn-bom p>a{
+    line-height:20px;
+}
+.mn-bom p{
+    line-height:21px;
+}
+.mn-bom-move{
+    margin:15px 0;
+}
+.mn-bom .mn-bom-cutoff{
+    background:white;
+    color:#e42654;
+}
+.mn-bom-photo li{
+    margin:2px 0;
+    width:113px;
+}
+.mn-bom-cutoff span{
+    float:right;
+}
+.mn-bom-photo li+li{
+    margin:2px 0 0 10px;
+}
+.circle{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 5px;
+    background: #666;
+}
+.de-mid-top{
+  /*  box-sizing:border-box;*/
+  width:428px;
+    border:5px solid #eaeaea;
+    margin:0 0 6px 0;
+}
+.de-mid-top{
+    font-size:18px;
+    color:#e85081;
+    text-align: center;
+    line-height:30px;
+    padding-top:5px;
+}
+.de-mid-top p{
+    text-align: left;
+    text-indent:1.5em;
+}
+.de-mid-cutoff{
+    width:204px;
+    font-size:14px;
+    line-height: 26px;
+
+}
+.de-mid-mid1{
+    float:left;
+}
+.de-mid-mid2{
+    margin-left:8px
+}
+.de-move{
+    margin:0;
+}
+.mn-mid .de-special{
+    margin:0 0;
+}
+.de-special li+li{
+    margin:0px 0 0 10px;
+}
+.de-special li{
+    margin:0;
+}
+.de-bbm p{
+    line-height: 20px
+}
+.ed-div-specil {
+    margin:10px 0 20px 0;
+}
+.show{
+   border-left:2px solid #e2e2e2;
+   border-right:2px solid #e2e2e2;
+   border-top:1px solid #e2e2e2;
+   border-bottom:1px solid #e2e2e2;
+   margin: 16px auto 8px auto;
+ }
+  .show-photo{
+    margin:0 0 20px 0;
+  }
+ .show-photo li{
+    text-align: center;
+    width:140px;
+    border:1px dotted #e2e2e2;
+    float:left;
+ }
+  .show-photo li+li{
+    margin-left:16px;
+  }
+  .show-photo-fli{
+     margin-left:16px;
+  }
+.show .show-specal-f1{
+    color:#e54c7d;
+  }
+  .show a{
+    color:#556;
+    line-height:14px;
+  }
+
+.show-a-f3{
+    float:right;
+    margin:14px 30px 0 0;
+}
+.show-a-f4{
+    float:left;
+    margin:14px 0 0 430px;
+}
+.show-a-f5{
+    float:right;
+    margin:14px 30px 0 0;
+}
+.brother{
+    border:1px dotted #e2e2e2;
+}
+.brother li{
+    float:left;
+    line-height:30px;
+    border-right:1px #e2e2e2 solid;
+    padding:0 5px;
+    text-align:center;
+}
+.brother ul{
+    margin: 0 15px;
+}
+.last-segment{
+    text-align:center;
+    background:#fddee8;
+    height:170px;
+    border-top:1px solid #f4c3d1;
+    margin-top:18px;
+}
+.last-f1{
+    margin-top:30px;
+}
+.last-f2{
+    margin:35px 0 25px 0;
+}
+.last-f1 a{
+      color: #7b4957;
+}
+.last-f2 a{
+   font-weight: bold;
+   color: #7b4957;
+}
+.last-segment p:nth-child(3){
+    margin:0 0 10px 0;
+}
+/*.last-segment a{
+    color: #
+}*/
